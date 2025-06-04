@@ -1,6 +1,7 @@
-﻿// File: src/app/page.tsx
+﻿// File: src/app/pages/Main.tsx
 import '@/app/css/page.css'
 import Image from 'next/image'
+import ImageTextCard from '@/app/components/ImageTextCard'
 
 export default function HomePage() {
     const sections = [
@@ -33,6 +34,19 @@ export default function HomePage() {
                                 <div style={{ fontFamily: "Moonhouse", fontSize: '2rem' }}>
                                     The quick brown fox jumps over the lazy dog
                                 </div>
+
+                                <ImageTextCard
+                                    imageSrc="/example-image.jpg"
+                                    imageAlt="Example description"
+                                    className="max-w-4xl mx-auto"
+                                >
+                                    <h2>Our Engineering Services</h2>
+                                    <p>
+                                        ERM CENTRAS provides end-to-end engineering solutions, deploying bespoke
+                                        technologies for industrial clients. We handle everything from project
+                                        planning and installation to ongoing maintenance.
+                                    </p>
+                                </ImageTextCard>
                             </div>
                         </div>
                     ))}

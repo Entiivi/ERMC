@@ -6,9 +6,9 @@
     "\\public\\fonts",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\components",
     "\\src\\app\\css",
-    "\\src\\app\\other pages"
+    "\\src\\app\\pages"
   ],
-  "SelectedNode": "\\src\\app\\css\\layout.css",
   "PreviewInSolutionExplorer": false
 }
