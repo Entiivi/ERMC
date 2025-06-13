@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.next",
     "\\public",
-    "\\public\\fonts",
+    "\\public\\photos",
+    "\\public\\photos\\partneriu",
     "\\src",
     "\\src\\app",
     "\\src\\app\\components",
     "\\src\\app\\css",
-    "\\src\\app\\pages"
+    "\\src\\app\\pages",
+    "\\src\\app\\utils"
   ],
+  "SelectedNode": "\\src\\app\\css\\page.css",
   "PreviewInSolutionExplorer": false
 }

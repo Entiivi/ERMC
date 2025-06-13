@@ -5,21 +5,19 @@ body {
     margin: 0;
     font-family: Martius;
     background: #e7e7e7;
-    color: #fff;
+    color: #171717 !important;
     -webkit-font-smoothing: antialiased;
+    overflow:hidden;
 }
 
 /* MAIN */
 .main {
-    /* push down so it sits below the fixed header */
-    padding-top: 5rem;
-    /* ensure footer space too */
-    min-height: calc(100vh - 5rem - 4rem);
     /* give it a very dark gray instead of black-on-black */
     background: #e7e7e7;
-    display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0 5vw;
+    overflow: hidden;
 }
 
 /* HEADER */
@@ -33,7 +31,7 @@ body {
     z-index: 50;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.07);
 }
 
 .nav {
@@ -60,7 +58,7 @@ body {
     display: flex;
     gap: 1.5rem; /* ≈ space-x-6 */
     margin: 0;
-    font-size: 30;
+    font-size: 3vh;
     padding: 0;
 }
 
@@ -74,15 +72,9 @@ body {
         color: #14b8a6; /* ≈ text-teal-400 */
     }
 
-/* MAIN */
-.main {
-    padding-top: 5rem; /* ≈ pt-20 */
-    min-height: calc(100vh - 5rem - 4rem);
-}
-
 /* FOOTER */
 .footer {
-    background: #e8e9dd;
+    background: #f6f6f6;
     color: #6b7280; /* ≈ text-gray-500 */
     text-align: center;
     padding: 2rem 0; /* ≈ py-8 */
@@ -92,5 +84,5 @@ body {
 .footer-inner {
     max-width: 72rem;
     margin: 0 auto;
-    background: #e8e9dd;
+    background: #f6f6f6;
 }

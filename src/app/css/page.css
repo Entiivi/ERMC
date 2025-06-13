@@ -1,78 +1,25 @@
 ﻿.MainDiv {
     width: 100%;
-    margin: 0; /* remove any automatic margins */
-    padding: 0; /* remove any automatic padding */
+    display: flex;
+    flex-direction: row;
     align-items: center;
-
+    overflow: hidden;
 }
 
 /* Hero section */
 .hero {
-    position: relative;
-    width: 100vw;
-    height: 90vh; /* adjust height as you like */
+    width: 100%;
+    height: 100%;
     overflow: hidden;
-    align-items: center;
-    margin: auto;
-}
-
-.hero img {
-  
-}
-
-.hero-overlay {
-  position: absolute;
-  inset: 0;
 }
 
 .hero-content {
-    position: relative;
-    z-index: 10;
     height: 100%;
     width: 100%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+    overflow: hidden;
     justify-content: center;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    display: block;
 }
 
-.hero-content h1 {
-  color: #fff;
-  font-size: 3rem;
-  font-weight: bold;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.6);
-}
-
-/* Existing cards CSS */
-.section-container {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-
-.card-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.card-heading {
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-bottom: 1rem;
-}
-
-.card-box {
-    width: 90%;
-    height: 12rem;
-    background: #e8e9dd; /* gray-800 */
-    border-radius: 0.75rem; /* rounded-xl */
-    padding: 1.5rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.card-placeholder {
-  color: #9ca3af;         /* gray-400 */
-}

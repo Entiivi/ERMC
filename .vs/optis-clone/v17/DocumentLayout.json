@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\optis-clone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\ImageTextCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\ImageTextCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\css\\page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -21,6 +17,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\eslint.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eslint.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\utils\\slugify.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\utils\\slugify.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\KarjeraSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\KarjeraSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\KontaktaiSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\KontaktaiSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\PatirtisSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\PatirtisSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\PartneriaiSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\PartneriaiSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\ServicesSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\ServicesSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,31 +94,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T08:45:37.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ImageTextCard.tsx",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\ImageTextCard.tsx",
-              "RelativeDocumentMoniker": "src\\app\\components\\ImageTextCard.tsx",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\ImageTextCard.tsx",
-              "RelativeToolTip": "src\\app\\components\\ImageTextCard.tsx",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T19:46:22.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "slugify.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\utils\\slugify.ts",
+              "RelativeDocumentMoniker": "src\\app\\utils\\slugify.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\utils\\slugify.ts",
+              "RelativeToolTip": "src\\app\\utils\\slugify.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-01T21:16:05.647Z"
+              "WhenOpened": "2025-06-11T08:57:59.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "layout.css",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\css\\layout.css",
-              "RelativeDocumentMoniker": "src\\app\\css\\layout.css",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\css\\layout.css",
-              "RelativeToolTip": "src\\app\\css\\layout.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-01T20:58:41.066Z"
+              "DocumentIndex": 10,
+              "Title": "KontaktaiSection.tsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\KontaktaiSection.tsx",
+              "RelativeDocumentMoniker": "src\\app\\components\\KontaktaiSection.tsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\KontaktaiSection.tsx",
+              "RelativeToolTip": "src\\app\\components\\KontaktaiSection.tsx",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-10T21:53:04.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "KarjeraSection.tsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\KarjeraSection.tsx",
+              "RelativeDocumentMoniker": "src\\app\\components\\KarjeraSection.tsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\KarjeraSection.tsx",
+              "RelativeToolTip": "src\\app\\components\\KarjeraSection.tsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwv0kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-10T21:53:01.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "page.css",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\css\\page.css",
               "RelativeDocumentMoniker": "src\\app\\css\\page.css",
@@ -90,32 +164,103 @@
               "RelativeToolTip": "src\\app\\css\\page.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-01T20:58:29.843Z"
+              "WhenOpened": "2025-06-10T18:13:39.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "eslint.config.mjs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\eslint.config.mjs",
+              "RelativeDocumentMoniker": "eslint.config.mjs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\eslint.config.mjs",
+              "RelativeToolTip": "eslint.config.mjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-11T20:51:37.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServicesSection.tsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\ServicesSection.tsx",
+              "RelativeDocumentMoniker": "src\\app\\components\\ServicesSection.tsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\ServicesSection.tsx",
+              "RelativeToolTip": "src\\app\\components\\ServicesSection.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-10T20:28:48.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\globals.css",
+              "RelativeDocumentMoniker": "src\\app\\globals.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\globals.css",
+              "RelativeToolTip": "src\\app\\globals.css",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T20:01:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartneriaiSection.tsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\PartneriaiSection.tsx",
+              "RelativeDocumentMoniker": "src\\app\\components\\PartneriaiSection.tsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\PartneriaiSection.tsx",
+              "RelativeToolTip": "src\\app\\components\\PartneriaiSection.tsx",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv6wAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-10T19:07:16.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "layout.tsx",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\layout.tsx",
               "RelativeDocumentMoniker": "src\\app\\layout.tsx",
               "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\layout.tsx",
               "RelativeToolTip": "src\\app\\layout.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwD0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-01T20:56:10.34Z"
+              "WhenOpened": "2025-06-10T18:53:31.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "layout.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\css\\layout.css",
+              "RelativeDocumentMoniker": "src\\app\\css\\layout.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\css\\layout.css",
+              "RelativeToolTip": "src\\app\\css\\layout.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T18:13:43.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "page.tsx",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\page.tsx",
               "RelativeDocumentMoniker": "src\\app\\page.tsx",
               "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\page.tsx",
               "RelativeToolTip": "src\\app\\page.tsx",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAAAQwP4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-06-01T20:53:07.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T18:11:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatirtisSection.tsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\PatirtisSection.tsx",
+              "RelativeDocumentMoniker": "src\\app\\components\\PatirtisSection.tsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\optis-clone\\src\\app\\components\\PatirtisSection.tsx",
+              "RelativeToolTip": "src\\app\\components\\PatirtisSection.tsx",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAI4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-10T18:07:02.695Z"
             }
           ]
         }

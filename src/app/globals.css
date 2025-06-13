@@ -1,4 +1,4 @@
-@font-face {
+﻿@font-face {
     font-family: 'Moonhouse';
     src: url('/fonts/Moonhouse.ttf') format('opentype');
     font-weight: 400;
@@ -37,3 +37,21 @@
     font-style: normal;
     font-display: swap;
 }
+
+body.noscroll {
+    overflow: hidden;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollbar-none {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
