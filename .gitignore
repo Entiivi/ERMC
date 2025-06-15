@@ -9,18 +9,6 @@ build/
 
 # Node modules
 node_modules/
-
-# Common image patterns (adjust paths as needed):
-# If you want to ignore all .png and .jpg in a particular folder, you can do:
-assets/images/*.png
-assets/images/*.jpg
-
-# Or ignore all images globally (be careful: this ignores images anywhere in repo)
-*.png
-*.jpg
-*.jpeg
-*.gif
-
 # Build output, logs, etc.
 dist/
 build/
